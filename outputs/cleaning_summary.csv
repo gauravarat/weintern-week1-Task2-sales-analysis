@@ -1,0 +1,10 @@
+Dataset,Original Rows,Cleaned Rows,Rows Removed,Original Columns,Cleaned Columns,Remaining Missing Values,Remaining Duplicates
+Customers,99441,99441,0,5,5,0,0
+Geolocation,1000163,738332,261831,5,5,0,0
+Order Items,112650,112650,0,7,7,0,0
+Payments,103886,103886,0,5,5,0,0
+Reviews,99224,99224,0,7,7,145903,0
+Orders,99441,99441,0,8,8,4908,0
+Products,32951,32951,0,9,16,1838,0
+Sellers,3095,3095,0,4,4,0,0
+Category Translation,71,71,0,2,2,0,0
